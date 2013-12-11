@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.version       = Harness::VERSION
 
   gem.add_dependency "activesupport", ">= 3"
-  gem.add_dependency "statsd-ruby"
+  gem.add_development_dependency "statsd-ruby"
 
   gem.add_development_dependency "simplecov"
   gem.add_development_dependency "rake"

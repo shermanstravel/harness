@@ -1,4 +1,5 @@
 require_relative 'test_helper'
+require 'statsd'
 
 class AcceptanceTest < MiniTest::Unit::TestCase
   def test_works_with_actual_statsd

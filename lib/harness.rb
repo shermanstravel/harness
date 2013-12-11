@@ -1,6 +1,5 @@
 require "harness/version"
 
-require 'statsd'
 require 'active_support/notifications'
 
 module Harness
