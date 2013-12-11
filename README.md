@@ -65,7 +65,7 @@ list.
 * [harness-actioncontroller](http://github.com/ahawkins/harness-actioncontroller)
 * [harness-actionmailer](http://github.com/ahawkins/harness-actionmailer)
 * [harness-actionview](http://github.com/ahawkins/harness-actionview)
-* [harness-activerecord](http://github.com/ahawkins/harness/activerecord)
+* [harness-activerecord](http://github.com/ahawkins/harness-activerecord)
 * [harness-active\_model\_serialzier](http://github.com/ahawkins/harness-active_model_serializers)
 * [harness-activesupport](http://github.com/ahawkins/harness-activesupport)
 * [harness-haproxy](http://github.com/ahawkins/harness-haproxy)
